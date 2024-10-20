@@ -1,0 +1,176 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+.audio-upload {
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+
+.audio-upload i {
+  color: #333;
+  cursor: pointer;
+}
+
+.audio-upload i:hover {
+  color: #007bff;
+}
+
+#songName {
+  margin-top: 10px;
+  font-size: 16px;
+  color: #333;
+}
+
+.volume-control {
+  margin-top: 20px;
+}
+
+.caixa-som {
+  width: 300px;
+  height: 400px;
+  background-color: #CD5C5C;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  margin: 0 auto;
+  border-radius: 10px;
+  position: relative;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+.altofalantes {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.altofalante {
+  width: 110px;
+  height: 110px;
+  background-color: #333;
+  border-radius: 50%;
+  margin: 20px;
+  position: relative;
+  box-shadow: inset 0px 4px 6px rgba(0, 0, 0, 0.6),
+              0px 6px 8px rgba(0, 0, 0, 0.6);
+  transition: transform 0.1s ease-in-out;
+}
+
+.altofalante::before {
+  content: '';
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  width: 80px;
+  height: 80px;
+  background-color: #555;
+  border-radius: 50%;
+  box-shadow: inset 0px 4px 6px rgba(0, 0, 0, 0.6),
+              0px 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+.altofalante::after {
+  content: '';
+  position: absolute;
+  top: 35px;
+  left: 35px;
+  width: 40px;
+  height: 40px;
+  background-color: #777;
+  border-radius: 50%;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.6);
+}
+
+.corneta {
+  width: 200px;
+  height: 60px;
+  background: linear-gradient(145deg, #333 20%, #111 70%);
+  border-radius: 10px;
+  margin-bottom: 20px;
+  transform: scale(1);
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.6);
+}
+
+.corneta::before {
+  content: '';
+  position: absolute;
+  top: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 50px;
+  height: 10px;
+  background-color: #444;
+  border-radius: 5px;
+  box-shadow: inset 0px 2px 4px rgba(0, 0, 0, 0.6);
+}
+
+.corneta::after {
+  content: '';
+  position: absolute;
+  top: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 30px;
+  height: 30px;
+  background-color: #111;
+  border-radius: 50%;
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.7);
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: green;
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+  border: none;
+}
+
+button:disabled {
+  background-color: #D3D3D3;
+  cursor: not-allowed;
+}
+
+footer {
+    background-color: #D3D3D3;
+    color: white;
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    padding: 20px 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  margin-top: 20px;
+}
+
+footer p {
+    margin: 5px 0;
+}
+
+footer a {
+    color: #1E90FF;
+    text-decoration: none;
+}
+footer a:hover {
+    color: #FF6347;
+}
+
+footer a:active {
+    color: #32CD32;
+}
