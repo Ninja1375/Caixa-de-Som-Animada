@@ -1,3 +1,8 @@
+**Veja o projeto ao vivo:**
+
+**[Caixa de Som Animada](https://ninja1375.github.io/Caixa-de-Som-Animada/)**
+
+
 Este projeto simula uma caixa de som com alto-falantes e uma corneta realistas, que reagem ao tocar de um arquivo de áudio carregado pelo usuário. A caixa de som é estilizada com uma cor chocolate, e os alto-falantes possuem animações de pulsação que se ativam conforme a música é reproduzida. Além disso, há uma corneta posicionada acima dos alto-falantes, que também se anima junto com eles.
 
 A interface inclui um input oculto para seleção de arquivos de áudio, que é substituído por um ícone, tornando o design mais elegante. O nome da música selecionada é exibido, e há um controle de volume para que o usuário possa ajustar o som durante a reprodução.
