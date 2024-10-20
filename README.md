@@ -44,3 +44,15 @@ Permite uma experiência personalizada ao tocar arquivos de áudio diretamente d
 Adicionar suporte para listas de reprodução.
 Implementar efeitos sonoros adicionais, como eco ou equalizadores visuais.
 Melhorar o design dos controles de áudio com botões mais personalizados e efeitos visuais.
+
+## linguagens Utilizadas ##
+
+<a href="https://programartudo.blogspot.com/2024/05/html-o-que-e-e-qual-sua-funcionalidade.html?m=1" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></a> <a href="https://programartudo.blogspot.com/2024/05/css-significado-e-funcionalidade.html?m=1" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></a> <a href="https://programartudo.blogspot.com/2024/05/javascript-significado-e-funcionalidade.html?m=1" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+
+## Apoie-me:
+
+<a href="https://buymeacoffee.com/antonio13" target="_blank"><img loading="lazy" src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=seu_nome_de_usuario&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" width="130" height="30"></a>
+
+<a href="https://www.paypal.com/donate/?hosted_button_id=DN574F28FYUNG" target="_blank"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg" width="130" height="30"></a>
+
+<a href="https://github.com/sponsors/Ninja1375" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=github&logoColor=white" width="130" height="30"></a>
